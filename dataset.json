@@ -1,0 +1,58 @@
+{"intents": [
+        {"tag": "Salutations",
+         "patterns": ["Bonjour", "Bonsoir", "Salut","Hey","Hola", "Hello", "Coucou", "Ça va?" , "Comment allez vous ?", "Comment vas tu ?", "Vous allez bien ?"],
+         "responses": ["Bonjour, oui ça va ,merci de demander","Bonsoir, oui ça va ,merci de demander", "Bonjour","Bonsoir","Salut","Ravi de vous voir par ici", "Comment puis-je vous aider ?"],
+         "context": [""]
+        },
+        {"tag": "Adieux",
+         "patterns": ["Bye", "À plus tard", "Au revoir", "C'était un plaisir de vous parler, Au revoir", "À la prochaine", "À bientôt"],
+         "responses": ["À bientot", "Bonne journée", "Bonne soirée", "Au revoir! À trés bientôt."],
+         "context": [""]
+        },
+        {"tag": "Remerciements",
+         "patterns": ["Merci", "Je vous remercie ", "Merci beaucoup","Merci de votre aide"],
+         "responses": ["Je vous en prie", "Tout le plaisir est pour moi","Ravi d'avoir  aidé"],
+         "context": [""]
+        },
+        {"tag": "PasDeReponse",
+         "patterns": [],
+         "responses": ["Désolé je ne vous ai pas compris", "S'il vous plait, soyez plus clair", "Je ne suis pas sûr de comprendre"],
+         "context": [""]
+        },
+        {"tag": "options",
+         "patterns": ["Comment pourriez vous m'aider ?", "Comment pourrais tu m'aider ?", "Quelle aide pourriez-vous me donner?"],
+         "responses": ["Je peux vous suggérer des livres ou des auteurs", "Je peux prendre votre réservation", "je peux vous dire si un livre est disponible"],
+         "context": [""]
+        },
+        {"tag": "SuggestionDeLivre",
+         "patterns": ["Je cherche un livre en informatique", "Je cherche un livre en maths","Je cherche un livre en mathématiques"],
+         "responses": ["Recherche en cours, merci de patienter"],
+         "context": [""]
+        },
+        {"tag": "SuggestionAuteur",
+         "patterns": ["Je cherche un auteur  en informatique", "Je cherche un auteur en maths","Je cherche un auteur en mathématiques"],
+         "responses": ["Recherche en cours, merci de patienter"],
+         "context": [""]
+        },
+        {"tag": "RechercheLivre",
+         "patterns": ["Je cherche un livre" ],
+         "responses": ["Quel est son titre ?"],
+         "context": [""]
+        },
+        {"tag": "RechercheAuteur",
+         "patterns": ["Je cherche un auteur "],
+         "responses": ["Quel est le nom de l'auteur ?", "Quel auteur ?"],
+         "context": [""]
+        },
+        {"tag": "ReservationDeLivre",
+         "patterns": ["Je veux reserver un livre "],
+         "responses": ["Quel livre ?"],
+         "context": []
+        },
+        {"tag": "ConfirmationReservation",
+         "patterns": [],
+         "responses": ["Votre réservation est prise en compte ","Le livre demandé n'est pas disponible"],
+         "context": [""]
+        }
+   ]
+}

@@ -1,0 +1,47 @@
+{"data": [
+        {"subject": "Salutations",
+         "inputs": ["Bonjour", "Bonsoir", "Salut","Hey","Hola", "Hello", "Coucou", "Ça va?" , "Comment allez vous ?", "Comment vas tu ?", "Vous allez bien ?"],
+         "outputs": ["Bonjour, oui ça va ,merci de demander","Bonsoir, oui ça va ,merci de demander", "Bonjour","Bonsoir","Salut","Ravi de vous voir par ici", "Comment puis-je vous aider ?"]
+        },
+        {"subject": "Adieux",
+         "inputs": ["Bye", "À plus tard", "Au revoir", "C'était un plaisir de vous parler, Au revoir", "À la prochaine", "À bientôt"],
+         "outputs": ["À bientot", "Bonne journée", "Bonne soirée", "Au revoir! À trés bientôt."]
+        },
+        {"subject": "Remerciements",
+         "inputs": ["Merci", "Je vous remercie ", "Merci beaucoup","Merci de votre aide"],
+         "outputs": ["Je vous en prie", "Tout le plaisir est pour moi","Ravi d'avoir  aidé"]
+        },
+        {"subject": "PasDeReponse",
+         "inputs": [],
+         "outputs": ["Désolé je ne vous ai pas compris", "S'il vous plait, soyez plus clair", "Je ne suis pas sûr de comprendre"]
+        },
+        {"subject": "options",
+         "inputs": ["Comment pourriez vous m'aider ?", "Comment pourrais tu m'aider ?", "Quelle aide pourriez-vous me donner?"],
+         "outputs": ["Je peux vous suggérer des livres ou des auteurs", "Je peux prendre votre réservation", "je peux vous dire si un livre est disponible"]
+        },
+        {"subject": "SuggestionDeLivre",
+         "inputs": ["Je cherche un livre en informatique"],
+         "outputs": ["Recherche en cours, merci de patienter"] 
+        },
+        {"subject": "SuggestionAuteur",
+         "inputs": ["Je cherche un auteur  en informatique"],
+         "outputs": ["Recherche en cours, merci de patienter"]
+        },
+        {"subject": "RechercheLivre",
+         "inputs": ["Je cherche un livre" ],
+         "outputs": ["Quel est son titre ?"]     
+        },
+        {"subject": "RechercheAuteur",
+         "inputs": ["Je cherche un auteur "],
+         "outputs": ["Quel est le nom de l'auteur ?", "Quel auteur ?"]
+        },
+        {"subject": "ReservationDeLivre",
+         "inputs": ["Je veux reserver un livre "],
+         "outputs": ["Quel livre ?"]
+        },
+        {"subject": "ConfirmationReservation",
+         "inputs": [],
+         "outputs": ["Votre réservation est prise en compte ","Le livre demandé n'est pas disponible"]
+        }
+   ]
+}

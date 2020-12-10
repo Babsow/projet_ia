@@ -1,0 +1,395 @@
+[
+  {
+    "title": "Unlocking Android",
+    "authors": ["W. Frank Ableson", "Charlie Collins", "Robi Sen"],    
+    "categories": ["Open Source", "Mobile"],
+    "available" : true 
+  },
+  {
+    "title": "Android in Action, Second Edition",
+    "authors": ["W. Frank Ableson", "Robi Sen"],
+    "categories": ["Java"],
+    "available" : true 
+  },
+  {
+    "title": "Specification by Example",
+    "authors": ["Gojko Adzic"],
+    "categories": ["Software Engineering"],
+    "available" : true 
+  },
+  {
+    "title": "Flex 3 in Action",
+    "authors": ["Tariq Ahmed with Jon Hirschi", "Faisal Abid"],
+    "categories": ["Internet"],
+    "available" : true 
+  },
+  {
+    "title": "Flex 4 in Action",
+    "authors": ["Tariq Ahmed", "Dan Orlando", "John C. Bland II", "Joel Hooks"],
+    "categories": ["Internet"],
+    "available" : true 
+  },
+  {
+    "title": "Collective Intelligence in Action",
+    "authors": ["Satnam Alag"],
+    "categories": ["Internet"],
+    "available" : true 
+
+  },
+  {
+    "title": "Zend Framework in Action",
+    "authors": ["Rob Allen", "Nick Lo", "Steven Brown"],
+    "categories": ["Web Development"],
+    "available" : true 
+
+  },
+  {
+    "title": "Flex on Java",
+    "authors": ["Bernerd Allmon", "Jeremy Anderson"],
+    "categories": ["Internet"],
+    "available" : false 
+  },
+  {
+    "title": "Griffon in Action",
+    "authors": ["Andres Almiray", "Danno Ferrin", "", "James Shingler"],
+    "categories": ["Java"],
+    "available" : true 
+
+  },
+  {
+    "title": "OSGi in Depth",
+    "authors": ["Alexandre de Castro Alves"],
+    "categories": ["Java"],
+    "available" : false 
+  },
+  {
+    "title": "Flexible Rails",
+    "authors": ["Peter Armstrong"],
+    "categories": ["Web Development"],
+    "available" : false 
+  },
+  {
+    "title": "Hello! Flex 4",
+    "authors": ["Peter Armstrong"],
+    "categories": ["Internet"],
+    "available" : false 
+  },
+  {
+    "title": "Coffeehouse",
+    "authors": ["Levi Asher", "Christian Crumlish"],
+    "categories": ["Miscellaneous"],
+    "available" : false 
+  },
+  {
+    "title": "Team Foundation Server 2008 in Action",
+    "authors": ["Jamil Azher"],
+    "categories": ["Microsoft .NET"],
+    "available" : false 
+  },
+  {
+    "title": "Brownfield Application Development in .NET",
+    "authors": ["Kyle Baley", "Donald Belcham"],
+    "categories": ["Microsoft"],
+    "available" : false 
+  },
+  {
+    "title": "MongoDB in Action",
+    "authors": ["Kyle Banker"],
+    "categories": ["Next Generation Databases"],
+    "available" : false 
+  },
+  {
+    "title": "Distributed Application Development with PowerBuilder 6.0",
+    "authors": ["Michael J. Barlotta"],
+    "categories": ["PowerBuilder"],
+    "available" : false 
+  },
+  {
+    "title": "Jaguar Development with PowerBuilder 7",
+    "authors": ["Michael Barlotta"],
+    "categories": ["PowerBuilder", "Client-Server"],
+    "available" : false 
+  },
+  {
+    "title": "Taming Jaguar",
+    "authors": ["Michael J. Barlotta", "Jason R. Weiss"],
+    "categories": ["PowerBuilder"],
+    "available" : false
+  },
+  {
+    "title": "3D User Interfaces with Java 3D",
+    "authors": ["Jon Barrilleaux"],
+    "categories": ["Java", "Computer Graphics"],
+    "available" : false 
+  },
+  {
+    "title": "Hibernate in Action",
+    "authors": ["Christian Bauer", "Gavin King"],
+    "categories": ["Java"],
+    "available" : true
+  },
+  {
+    "title": "Hibernate in Action (Chinese Edition)",
+    "authors": ["Christian Bauer", "Gavin King"],
+    "categories": ["Java"],
+    "available" : true
+  },
+  {
+    "title": "Java Persistence with Hibernate",
+    "authors": ["Christian Bauer", "Gavin King"],
+    "categories": ["Java"],
+    "available" : true
+  },
+  {
+    "title": "JSTL in Action",
+    "authors": ["Shawn Bayern"],
+    "categories": ["Internet"],
+    "available" : true
+  },
+  {
+    "title": "iBATIS in Action",
+    "authors": ["Clinton Begin", "Brandon Goodin", "Larry Meadors"],
+    "categories": ["Web Development"],
+    "available" : true
+  },
+  {
+    "title": "Designing Hard Software",
+    "authors": ["Douglas W. Bennett"],
+    "categories": ["Object-Oriented Programming", "S"],
+    "available" : true
+  },
+  {
+    "title": "Hibernate Search in Action",
+    "authors": ["Emmanuel Bernard", "John Griffin"],
+    "categories": ["Java"],
+    "available" : true
+  },
+  {
+    "title": "jQuery in Action",
+    "authors": ["Bear Bibeault", "Yehuda Katz"],
+    "categories": ["Web Development"],
+    "available" : true
+  },
+  {
+    "title": "jQuery in Action, Second Edition",
+    "authors": ["Bear Bibeault", "Yehuda Katz"],
+    "categories": ["Java"],
+    "available" : true
+  },
+  {
+    "title": "Building Secure and Reliable Network Applications",
+    "authors": ["Kenneth P. Birman"],
+    "categories": ["Networking", "Theory"],
+    "available" : true
+  },
+  {
+    "title": "Ruby for Rails",
+    "authors": ["David A. Black"],
+    "categories": ["Web Development"],
+    "available" : true
+  },
+  {
+    "title": "The Well-Grounded Rubyist",
+    "authors": ["David A. Black"],
+    "categories": ["Programming"],
+    "available" : true
+  },
+  {
+    "title": "Website Owner's Manual",
+    "authors": ["Paul A. Boag"],
+    "categories": ["Internet"],
+    "available" : true
+  },
+  {
+    "title": "ASP.NET 4.0 in Practice",
+    "authors": ["Daniele Bochicchio", "Stefano Mostarda","Marco De Sanctis"],
+    "categories": ["Microsoft .NET"],
+    "available" : true
+  },
+  {
+    "title": "Hello! Python",
+    "authors": ["Anthony Briggs"],
+    "categories": ["Python"],
+    "available" : true
+  },
+  {
+    "title": "PFC Programmer's Reference Manual",
+    "authors": ["Richard Brooks"],
+    "categories": ["PowerBuilder"],
+    "available" : true
+  },
+  {
+    "title": "Graphics File Formats",
+    "authors": ["C. Wayne Brown", "Barry J. Shepherd"],
+    "categories": ["Computer Graphics"],
+    "available" : true
+  },
+  {
+    "title": "Visual Object Oriented Programming",
+    "authors": ["Margaret M. Burnett", "Adele Goldberg", "", "Ted G. Lewis"],
+    "categories": ["Programming"],
+    "available" : true
+  },
+  {
+    "title": "iOS in Practice",
+    "authors": ["Bear P. Cahill"],
+    "categories": ["Mobile Technology"],
+    "available" : true
+  },
+  {
+    "title": "iPhone in Action",
+    "authors": ["Christopher Allen", "Shannon Appelcline"],
+    "categories": ["Web Development"],
+    "available" : true
+  },
+  {
+    "title": "Silverlight 2 in Action",
+    "authors": ["Chad A. Campbell", "John Stockton"],
+    "categories": ["Microsoft .NET"],
+    "available" : true
+  },
+  {
+    "title": "The Quick Python Book, Second Edition",
+    "authors": ["Naomi R. Ceder"],
+    "categories": ["Python"],
+    "available" : true
+  },
+  {
+    "title": "Internet and Intranet Applications with PowerBuilder 6",
+    "authors": ["Tom Cervenka"],
+    "categories": ["PowerBuilder"],
+    "available" : true
+  },
+  {
+    "title": "Practical Methods for Your Year 2000 Problem",
+    "authors": ["Robert Chapman"],
+    "categories": ["Business"],
+    "available" : true
+  },
+  {
+    "title": "Mobile Agents",
+    "authors": ["William R. Cockayne and Michael Zyda", "editors"],
+    "categories": ["Internet"],
+    "available" : true
+  },
+  {
+    "title": "Spring Dynamic Modules in Action",
+    "authors": ["Arnaud Cogoluegnes", "Thierry Templier", "", "Andy Piper"],
+    "categories": ["Java"],
+    "available" : true
+  },
+  {
+    "title": "SQL Server 2008 Administration in Action",
+    "authors": ["Rod Colledge"],
+    "categories": ["Microsoft"],
+    "available" : true
+  },
+  {
+    "title": "Android in Practice",
+    "authors": ["Charlie Collins","Michael D. Galpin","Matthias Kaeppler"],
+    "categories": ["Mobile Technology"],
+    "available" : true
+  },
+  {
+    "title": "Object Oriented Perl",
+    "authors": ["Damian Conway"],
+    "categories": ["Object-Oriented Programming", "P"],
+    "available" : false
+  },
+  {
+    "title": "GWT in Practice",
+    "authors": ["Robert Cooper", "Charles Collins"],
+    "categories": ["Web Development"],
+    "available" : true
+  },
+  {
+    "title": "Ajax in Action",
+    "authors": ["Dave Crane", "Eric Pascarello with Darren James"],
+    "categories": ["XML", "Internet"],
+    "available" : false
+  },
+  {
+    "title": "Ajax in Practice",
+    "authors": ["Dave Crane","Jord Sonneveld and Bear Bibeault with Ted Goddard","Chris Gray","Ram Venkataraman","Joe Walker" ],
+    "categories": ["Web Development"],
+    "available" : true
+  },
+  {
+    "title": "Prototype and Scriptaculous in Action",
+    "authors": ["Dave Crane", "Bear Bibeault with Tom Locke"],
+    "categories": ["Web Development"],
+    "available" : true
+  },
+  {
+    "title": "POJOs in Action",
+    "authors": ["Chris Richardson"],
+    "categories": ["Java"],
+    "available" : true
+  },
+  {
+    "title": "Data Munging with Perl",
+    "authors": ["David Cross"],
+    "categories": ["Perl"],
+    "available" : false
+  },
+  {
+    "title": "Hello! HTML5 & CSS3",
+    "authors": ["Rob Crowther"],
+    "categories": ["Internet"],
+    "available" : false
+  },
+  {
+    "title": "Seam in Action",
+    "authors": ["Dan Allen"],
+    "categories": ["Java"],
+    "available" : false
+  },
+  {
+    "title": "Wicket in Action",
+    "authors": ["Martijn Dashorst", "Eelco Hillenius"],
+    "categories": ["Web Development"],
+    "available" : true
+  },
+  {
+    "title": "Open Source SOA",
+    "authors": ["Jeff Davis"],
+    "categories": ["Java"],
+    "available" : true
+  },
+  {
+    "title": "Struts 2 in Action",
+    "authors": ["Donald Brown", "Chad Michael Davis", "", "Scott Stanlick"],
+    "categories": ["Java"],
+    "available" : true
+  },
+  {
+    "title": "Essential Guide to Peoplesoft Development and Customization",
+    "authors": ["Tony DeLia","Galina Landres","Isidor Rivera","Prakash Sankaran"],
+    "categories": ["Client-Server"],
+    "available" : true
+  },
+  {
+    "title": ".NET Multithreading",
+    "authors": ["Alan Dennis"],
+    "categories": ["Microsoft .NET", "Internet"],
+    "available" : true
+  },
+  {
+    "title": "SCWCD Exam Study Kit Second Edition",
+    "authors": ["Hanumant Deshmukh", "Jignesh Malavia", "", "Matthew Scarpino"],
+    "categories": ["Internet"],
+    "available" : true
+  },
+  {
+    "title": "Spring Roo in Action",
+    "authors": ["Ken Rimple", "Srini Penchikala"],
+    "categories": ["Java"],
+    "available" : true
+  },
+  {
+    "title": "SOA Governance in Action",
+    "authors": ["Jos Dirksen"],
+    "categories": ["java"],
+    "available" : true
+  }
+]
