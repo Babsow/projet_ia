@@ -1,7 +1,6 @@
 import nltk
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
-import pickle
 import train_chatbot as train 
 import numpy as np
 
@@ -16,8 +15,6 @@ books = books_data['books']
 words = train.words
 classes = train.classes
 
-print("************  \n")
-print(books[0]['author'])
 
 def search_author(author, dataset):
     books = dataset['books']
