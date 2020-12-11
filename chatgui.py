@@ -61,11 +61,24 @@ def predict_class(sentence, model):
 
 def getResponse(ints, intents_json):
     tag = ints[0]['intent']
+    sugAut=""
+    sugBook=""
+    if (tag == "SuggestionDeLivre"):
+        sugBook = tag
+    if (tag == "RechercheAuteur"):
+        sugAut = tag
     list_of_intents = intents_json['data']
+    result = ""
     for i in list_of_intents:
-        if(i['subject']== "SuggestionDeLivre"):
-            pass
-        if(i['subject']== tag):
+        if(i['subject'] == sugBook):
+            book = random.choice(books)
+            result ="Je vous suggère " + book['title'] + "\n"+"Description: \n"+ book['description']+ "\n \n"+ "Il se trouve ici :"+book['website']
+            break    
+        elif(i['subject'] == sugAut):
+            book = random.choice(books)
+            result ="Je vous suggère " + book['author'] + " qui a écrit le livre '"+book['title']+"' que vous pourrez trouver ici  :"+book['website']
+            break  
+        elif(i['subject']== tag):
             result = random.choice(i['outputs'])
             break
     return result
@@ -81,7 +94,7 @@ results = [[i,r] for i,r in enumerate(res) if r>0.25]
 print("*************************************************  \n")
 while True:
     msg = input("Message \n")
-    print(chatbot_response(msg))
+    print("chatbot:  "+chatbot_response(msg))
 # # #Creating GUI with tkinter
 # # import tkinter
 # from tkinter import *
